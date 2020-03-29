@@ -1,6 +1,8 @@
 backend:
   name: github
   repo: talves/netlify-cms-cra-simple
+  auth_type: implicit
+  appid: d51dd0a2-fa7d-451c-8b0f-91604313fb35 
 
 media_folder: "public/images"
 public_folder: "images"
